@@ -1,2 +1,2 @@
 # myinstabot
-Instagram bot for ;ikes and follow/unfollow
+Instagram bot for likes and follow/unfollow
